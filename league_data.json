@@ -1,0 +1,302 @@
+[
+  {
+    "LeagueName": "English League One",
+    "TeamsList": [
+      {
+        "TeamName": "Birmingham",
+        "MatchesPlayed": 6,
+        "GoalsScored": 13,
+        "GoalsConceded": 6,
+        "Points": 16,
+        "GoalDifference": 7
+      },
+      {
+        "TeamName": "Wycombe",
+        "MatchesPlayed": 6,
+        "GoalsScored": 11,
+        "GoalsConceded": 9,
+        "Points": 10,
+        "GoalDifference": 2
+      },
+      {
+        "TeamName": "Wrexham",
+        "MatchesPlayed": 6,
+        "GoalsScored": 12,
+        "GoalsConceded": 5,
+        "Points": 13,
+        "GoalDifference": 7
+      },
+      {
+        "TeamName": "Charlton",
+        "MatchesPlayed": 6,
+        "GoalsScored": 6,
+        "GoalsConceded": 3,
+        "Points": 13,
+        "GoalDifference": 3
+      },
+      {
+        "TeamName": "Stockport",
+        "MatchesPlayed": 6,
+        "GoalsScored": 13,
+        "GoalsConceded": 3,
+        "Points": 14,
+        "GoalDifference": 10
+      },
+      {
+        "TeamName": "Huddersfield",
+        "MatchesPlayed": 6,
+        "GoalsScored": 10,
+        "GoalsConceded": 5,
+        "Points": 13,
+        "GoalDifference": 5
+      },
+      {
+        "TeamName": "Bolton",
+        "MatchesPlayed": 6,
+        "GoalsScored": 2,
+        "GoalsConceded": 11,
+        "Points": 6,
+        "GoalDifference": -9
+      },
+      {
+        "TeamName": "Reading",
+        "MatchesPlayed": 6,
+        "GoalsScored": 6,
+        "GoalsConceded": 9,
+        "Points": 7,
+        "GoalDifference": -3
+      },
+      {
+        "TeamName": "Leyton Orient",
+        "MatchesPlayed": 6,
+        "GoalsScored": 5,
+        "GoalsConceded": 10,
+        "Points": 5,
+        "GoalDifference": -5
+      },
+      {
+        "TeamName": "Barnsley",
+        "MatchesPlayed": 6,
+        "GoalsScored": 10,
+        "GoalsConceded": 10,
+        "Points": 8,
+        "GoalDifference": 0
+      },
+      {
+        "TeamName": "Blackpool",
+        "MatchesPlayed": 6,
+        "GoalsScored": 11,
+        "GoalsConceded": 14,
+        "Points": 6,
+        "GoalDifference": -3
+      },
+      {
+        "TeamName": "Lincoln",
+        "MatchesPlayed": 6,
+        "GoalsScored": 12,
+        "GoalsConceded": 7,
+        "Points": 14,
+        "GoalDifference": 5
+      },
+      {
+        "TeamName": "Stevenage",
+        "MatchesPlayed": 6,
+        "GoalsScored": 5,
+        "GoalsConceded": 3,
+        "Points": 8,
+        "GoalDifference": 2
+      },
+      {
+        "TeamName": "Rotherham",
+        "MatchesPlayed": 6,
+        "GoalsScored": 5,
+        "GoalsConceded": 8,
+        "Points": 6,
+        "GoalDifference": -3
+      },
+      {
+        "TeamName": "Mansfield",
+        "MatchesPlayed": 6,
+        "GoalsScored": 9,
+        "GoalsConceded": 11,
+        "Points": 8,
+        "GoalDifference": -2
+      },
+      {
+        "TeamName": "Exeter",
+        "MatchesPlayed": 6,
+        "GoalsScored": 6,
+        "GoalsConceded": 8,
+        "Points": 7,
+        "GoalDifference": -2
+      },
+      {
+        "TeamName": "Wigan",
+        "MatchesPlayed": 6,
+        "GoalsScored": 6,
+        "GoalsConceded": 5,
+        "Points": 7,
+        "GoalDifference": 1
+      },
+      {
+        "TeamName": "Peterborough Utd",
+        "MatchesPlayed": 6,
+        "GoalsScored": 9,
+        "GoalsConceded": 9,
+        "Points": 8,
+        "GoalDifference": 0
+      },
+      {
+        "TeamName": "Northampton",
+        "MatchesPlayed": 6,
+        "GoalsScored": 6,
+        "GoalsConceded": 7,
+        "Points": 6,
+        "GoalDifference": -1
+      },
+      {
+        "TeamName": "Bristol Rovers",
+        "MatchesPlayed": 6,
+        "GoalsScored": 4,
+        "GoalsConceded": 8,
+        "Points": 9,
+        "GoalDifference": -4
+      },
+      {
+        "TeamName": "Burton",
+        "MatchesPlayed": 6,
+        "GoalsScored": 7,
+        "GoalsConceded": 8,
+        "Points": 5,
+        "GoalDifference": -1
+      },
+      {
+        "TeamName": "Crawley",
+        "MatchesPlayed": 6,
+        "GoalsScored": 4,
+        "GoalsConceded": 9,
+        "Points": 8,
+        "GoalDifference": -5
+      },
+      {
+        "TeamName": "Cambridge",
+        "MatchesPlayed": 6,
+        "GoalsScored": 6,
+        "GoalsConceded": 13,
+        "Points": 2,
+        "GoalDifference": -7
+      },
+      {
+        "TeamName": "Shrewsbury",
+        "MatchesPlayed": 6,
+        "GoalsScored": 4,
+        "GoalsConceded": 11,
+        "Points": 3,
+        "GoalDifference": -7
+      }
+    ],
+    "Fixtures": [
+      {
+        "HomeTeam": "Mansfield",
+        "AwayTeam": "Cambridge",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 2,
+        "AwayGoals": 1
+      },
+      {
+        "HomeTeam": "Northampton",
+        "AwayTeam": "Wycombe",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 1,
+        "AwayGoals": 2
+      },
+      {
+        "HomeTeam": "Blackpool",
+        "AwayTeam": "Exeter",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 2,
+        "AwayGoals": 1
+      },
+      {
+        "HomeTeam": "Bolton",
+        "AwayTeam": "Huddersfield",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 0,
+        "AwayGoals": 4
+      },
+      {
+        "HomeTeam": "Bristol Rovers",
+        "AwayTeam": "Wigan",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 0,
+        "AwayGoals": 4
+      },
+      {
+        "HomeTeam": "Crawley",
+        "AwayTeam": "Stockport",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 1,
+        "AwayGoals": 1
+      },
+      {
+        "HomeTeam": "Peterborough Utd",
+        "AwayTeam": "Lincoln",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 1,
+        "AwayGoals": 1
+      },
+      {
+        "HomeTeam": "Reading",
+        "AwayTeam": "Leyton Orient",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 0,
+        "AwayGoals": 1
+      },
+      {
+        "HomeTeam": "Rotherham",
+        "AwayTeam": "Burton",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 2,
+        "AwayGoals": 2
+      },
+      {
+        "HomeTeam": "Shrewsbury",
+        "AwayTeam": "Charlton",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 0,
+        "AwayGoals": 1
+      },
+      {
+        "HomeTeam": "Stevenage",
+        "AwayTeam": "Barnsley",
+        "FixtureDate": "2024-09-14T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 3,
+        "AwayGoals": 0
+      },
+      {
+        "HomeTeam": "Birmingham",
+        "AwayTeam": "Wrexham",
+        "FixtureDate": "2024-09-16T00:00:00",
+        "IsPlayed": true,
+        "HomeGoals": 3,
+        "AwayGoals": 1
+      }
+    ]
+  },
+  {
+    "LeagueName": "Scottish League",
+    "TeamsList": [],
+    "Fixtures": []
+  }
+]
